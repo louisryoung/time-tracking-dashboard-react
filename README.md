@@ -31,7 +31,6 @@ Users should be able to:
 
 ### Links
 
-- [Code Source](https://github.com/zougari47/time-tracking-dashbord)
 - [Live Demo](https://time-tracking-dashbord.netlify.app/)
 
 ## My process
@@ -95,9 +94,3 @@ function SmallCards({ time }) {
   return <>{cards}</>;
 }
 ```
-
-## Author
-
-- Frontend Mentor - [@zougari47](https://www.frontendmentor.io/profile/zougari47)
-- Twitter - [@zougari47](https://www.twitter.com/zougari47)
-- codepen - [@zougari47](https://codepen.io/zougari47)
